@@ -114,7 +114,7 @@ window.addEventListener('message', function(event) {
             StartBook({data:{pages:[
             {   /* 1 cover */
                 content:"",
-                background:"https://cdn.discordapp.com/attachments/564015305483878402/1079140091865350204/emotion_cover.png",
+                background:"https://media.discordapp.net/attachments/564015305483878402/1079755331795693659/emotion_cover.png",
                 backgroundColor:"#fff",
                 color:"",
             },
@@ -132,7 +132,7 @@ window.addEventListener('message', function(event) {
             },
             {   /* 8 back-side*/
                 content:"",
-                background:"https://cdn.discordapp.com/attachments/564015305483878402/1079140151848091668/emotion_back.png",
+                background:"https://media.discordapp.net/attachments/564015305483878402/1079755346505121912/emotion_back.png",
                 backgroundColor:"#fff",
                 color:"",
             },
