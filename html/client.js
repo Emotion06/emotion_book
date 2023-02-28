@@ -119,13 +119,13 @@ window.addEventListener('message', function(event) {
                 color:"",
             },
             {   /* 4 */
-                content:"<div class=\"ProductPurchaseButtons__button__back\" tabindex=\"0\"><button class=\"Button__btn__1bc-t Button__black__h0BRc\" data-ui-name=\"back\" onclick=\"index(2)\"type=\"button\"><span class=\"Button__text__2C2ug\" id=\"back\">Back</span></button></div></div>",
+                content:"",
                 background:"https://cdn.discordapp.com/attachments/564015305483878402/1079135782725500928/emotion_book.png",
                 backgroundColor:"#fff",
                 color:"",
             },
             {   /* 5 */
-                content:"<div class=\"ProductPurchaseButtons__button__back\" tabindex=\"0\"><button class=\"Button__btn__1bc-t Button__black__h0BRc\" data-ui-name=\"back\" onclick=\"index(2)\"type=\"button\"><span class=\"Button__text__2C2ug\" id=\"back\">Back</span></button></div></div>",
+                content:"",
                 background:"https://cdn.discordapp.com/attachments/564015305483878402/1079135782725500928/emotion_book.png",
                 backgroundColor:"fff",
                 color:"",

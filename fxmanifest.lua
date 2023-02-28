@@ -8,11 +8,15 @@ description 'by Emotion'
 version '1.0.0'
 
 client_scripts {
-  'client.lua'
+  'client/client.lua'
 }
 
 server_scripts {
-  'server.lua'
+  'server/server.lua'
+}
+
+shared_scripts {
+  'config.lua',
 }
 
 ui_page 'html/index.html'
